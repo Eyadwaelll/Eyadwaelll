@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Eyad Wael </h1>
+<h3 align="center"> Data Science & Machine Learning Engineer  </h3>
+
 [![Eyadwaelll's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyadwaelll&show_icons=true&theme=radical)](https://github.com/Eyadwaelll/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyadwaelll&layout=donut-vertical)](https://github.com/Eyadwaelll/github-readme-stats)
