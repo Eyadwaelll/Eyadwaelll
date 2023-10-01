@@ -13,7 +13,7 @@
 <p align="center">
 
 <p align="right">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyadwaelll&layout=donut-vertical)](https://github.com/Eyadwaelll/github-readme-stats)
+[![Top Langs]<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Eyadwaelll&layout=donut-vertical/> </p> <br/>(https://github.com/Eyadwaelll/github-readme-stats)
 <p align="right">
   
 ## 📩 Connect with me
