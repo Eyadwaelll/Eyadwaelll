@@ -9,9 +9,15 @@
 
 ## 📊 Github Stats
 
-[![Eyadwaelll's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyadwaelll&show_icons=true&theme=radical)](https://github.com/Eyadwaelll/github readme-stats)
+<table><tr><td valign="top" width="50%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyadwaelll&layout=donut-vertical)](https://github.com/Eyadwaelll/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Eyadwaelll&show_icons=true&count_private=true&hide_border=true&theme=radical" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyadwaelll&hide_border=true&layout=compact&theme=radical" align="left" style="width: 100%" />
+
+</td></tr></table>  
   
 ## 📩 Connect with me
 <p align="left">
