@@ -9,11 +9,11 @@
 
 ## 📊 Github Stats
 <p align="center">
-  [![Eyadwaelll's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyadwaelll&show_icons=true&theme=radical)](https://github.com/Eyadwaelll/github readme-stats)
+[![Eyadwaelll's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eyadwaelll&show_icons=true&theme=radical)](https://github.com/Eyadwaelll/github readme-stats)
 <p align="center">
 
 <p align="right">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyadwaelll&layout=donut-vertical)](https://github.com/Eyadwaelll/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eyadwaelll&layout=donut-vertical)](https://github.com/Eyadwaelll/github-readme-stats)
 <p align="right">
   
 ## 📩 Connect with me
