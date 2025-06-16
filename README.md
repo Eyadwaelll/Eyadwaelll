@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Eyad Wael </h1>
-<h3 align="center"> Data Science & Machine Learning Engineer  </h3>
+<h1 align="center">Hi 👋, I'm Eyad Wael Talaat </h1>
+<h3 align="center"> Fresh RF engineer & Machine Learning enthusiast  </h3>
 
--  I am an ECE Student at Mansoura University
--  I’m currently studing `Data Science & Machine Learning `
--  Volunteer at CAT Reloaded & IEEE MCSC
+-  2025 ECE Graduate from  Mansoura University
+-  Previous memebr at CAT Reloaded & IEEE MCSC
+-  Previous vice head of data science at IEEE MCSC
 
 
 
