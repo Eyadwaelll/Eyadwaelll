@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eyad Wael Talaat </h1>
 <h3 align="center"> Fresh RF engineer & Machine Learning enthusiast  </h3>
 
+“I’m Eyad Wael Talaat, a graduate in Communication and Electronics Engineering from Mansoura University, passionate about mobile communication technologies (2G, 3G, 4G, 5G) and network optimization and Machine Learning.”
+
 -  2025 ECE Graduate from  Mansoura University
 -  Previous memebr at CAT Reloaded & IEEE MCSC
 -  Previous vice head of data science at IEEE MCSC
