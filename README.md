@@ -6,6 +6,7 @@
 -  2025 ECE Graduate from  Mansoura University
 -  Previous memebr at CAT Reloaded & IEEE MCSC
 -  Previous vice head of data science at IEEE MCSC
+-  My Kaggle : https://www.kaggle.com/eyadwael
 
 
 
