@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Eyad Wael 👋 </h1>
 <h3 align="center"> AI & Odoo Developer | ERP, Telecom Automation Specialist  </h3>
 
-### AI & Odoo Developer | ERP Automation Specialist
-
 - 🔭 Currently building AI-powered solutions on Odoo 18
 - 🤖 Specializing in AI Agents, LLM Integration & ERP Automation
 - 🧠 Background in Machine Learning & Computer Vision
