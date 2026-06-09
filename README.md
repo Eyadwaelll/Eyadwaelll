@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eyad Wael 👋 </h1>
-<h3 align="center"> AI & Odoo Developer | ERP Automation Specialist  </h3>
+<h3 align="center"> AI & Odoo Developer | ERP, Telecom Automation Specialist  </h3>
 
 ### AI & Odoo Developer | ERP Automation Specialist
 
