@@ -1,14 +1,12 @@
-<h1 align="center">Hi 👋, I'm Eyad Wael Talaat </h1>
-<h3 align="center"> Fresh RF engineer & Machine Learning enthusiast  </h3>
+<h1 align="center">Hi, I'm Eyad Wael 👋 </h1>
+<h3 align="center"> AI & Odoo Developer | ERP Automation Specialist  </h3>
 
-“I’m Eyad Wael Talaat, a graduate in Communication and Electronics Engineering from Mansoura University, passionate about mobile communication technologies (2G, 3G, 4G, 5G) and network optimization and Machine Learning.”
+### AI & Odoo Developer | ERP Automation Specialist
 
--  2025 ECE Graduate from  Mansoura University
--  Previous memebr at CAT Reloaded & IEEE MCSC
--  Previous vice head of data science at IEEE MCSC
--  My Kaggle : https://www.kaggle.com/eyadwael
-
-
+- 🔭 Currently building AI-powered solutions on Odoo 18
+- 🤖 Specializing in AI Agents, LLM Integration & ERP Automation
+- 🧠 Background in Machine Learning & Computer Vision
+- ⚡ Working with: Python | Odoo | n8n | LLM APIs
 
 ## 📊 Github Stats
 
